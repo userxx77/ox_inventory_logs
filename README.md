@@ -1,14 +1,11 @@
-# ox_inventory_logs
-This script will allow to logs all possible ox_inventory transfers to a discord webhook.
+## ox_inventory_logs
 
+![](https://img.shields.io/github/downloads/userxx77/ox_inventory_logs/total?logo=github)
 
-preconfigured logs:
+## preconfigured logs
 
-drop
-pickup
-give
-stash
-player -> glovebox
-glovebox -> player
-player -> trunk
-trunk -> player
+drop, pickup, give, stash, glovebox, trunk
+
+## Contact
+
+To reach out to me, message me on discord @userxx77.
